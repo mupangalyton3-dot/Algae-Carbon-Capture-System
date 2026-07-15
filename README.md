@@ -92,7 +92,11 @@ The model demonstrates the feasibility of algae-based carbon capture systems as 
 - Google Colab  
 
 ---
+## 📚 Citation
 
+If you reference this work:
+
+Mupanga, L. (2026). *Algae-Based Carbon Capture System Using Computational Modeling*.
 
 ---
 
