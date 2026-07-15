@@ -35,19 +35,20 @@ This project investigates the use of microalgae for carbon capture using computa
 - Synthetic dataset generation  
 - Computational modeling using Python  
 
-## 🧪 Integrated Reactor Model
+## 🏭 Advanced Photobioreactor Simulation
 
-This project includes a fully coupled photobioreactor simulation:
+This model integrates:
 
-- Monod growth kinetics
-- CO₂ mass transfer (kLa model)
-- Biomass–carbon coupling
-- Dynamic ODE-based simulation
+- 🌞 Light attenuation (Beer–Lambert Law)
+- 🌱 Coupled algae growth kinetics
+- 🌫️ CO₂ mass transfer dynamics
+- ⚙️ Process optimization (light intensity sweep)
+- 🏭 Industrial scale-up modeling
 
-📊 Outputs:
-- Biomass growth curves
-- CO₂ depletion profile
-- Coupled system behavior
+### Key Insights:
+- Identifies optimal light intensity for maximum biomass
+- Demonstrates scale-dependent reactor performance
+- Captures real-world biological–physical coupling
 ---
 
 ## 📊 Results
