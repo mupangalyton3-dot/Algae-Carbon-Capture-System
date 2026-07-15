@@ -39,9 +39,11 @@ This project investigates the use of microalgae for carbon capture using computa
 
 ---
 
-## 📈 Sample Output
+## 📈 Results
 
-(Add your graphs here)
+![Growth Curve](images/Growth_Curve.png)
+
+
 
 ---
 
