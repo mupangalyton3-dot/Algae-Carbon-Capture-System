@@ -60,6 +60,22 @@ This model integrates:
 
 - Strong correlation observed between variables  
 
+## 🤖 AI-Optimized Carbon Capture System
+
+This project integrates:
+
+- AI-based optimization (genetic algorithm)
+- Photobioreactor simulation
+- Techno-economic analysis
+- Carbon credit revenue modeling
+
+### 💰 Objective:
+Maximize profit while capturing CO₂ efficiently
+
+### Outputs:
+- Optimal reactor parameters
+- Profit vs generation curve
+- CO₂ capture efficiency
 ---
 
 ## 📈 Results
