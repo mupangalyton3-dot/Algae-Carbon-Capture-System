@@ -1,3 +1,12 @@
+## 📄 Published Research
+
+**Algae-Based Carbon Capture System**  
+Integrated Growth Kinetics, CO₂ Sequestration & Reactor Design  
+
+📥 [Download Full Research Paper](paper/algae_carbon_capture_paper.pdf)
+
+[![Download Paper](https://img.shields.io/badge/Download-PDF-blue)](paper/algae_carbon_capture_paper.pdf)
+
 # Algae-Based Carbon Capture System
 
 ## 📌 Abstract
@@ -84,8 +93,6 @@ The model demonstrates the feasibility of algae-based carbon capture systems as 
 
 ---
 
-## 📄 Research Paper
-[Download Full Paper](link-to-your-pdf)
 
 ---
 
