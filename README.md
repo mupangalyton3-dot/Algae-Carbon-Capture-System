@@ -35,6 +35,19 @@ This project investigates the use of microalgae for carbon capture using computa
 - Synthetic dataset generation  
 - Computational modeling using Python  
 
+## 🧪 Integrated Reactor Model
+
+This project includes a fully coupled photobioreactor simulation:
+
+- Monod growth kinetics
+- CO₂ mass transfer (kLa model)
+- Biomass–carbon coupling
+- Dynamic ODE-based simulation
+
+📊 Outputs:
+- Biomass growth curves
+- CO₂ depletion profile
+- Coupled system behavior
 ---
 
 ## 📊 Results
