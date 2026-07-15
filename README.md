@@ -41,10 +41,20 @@ This project investigates the use of microalgae for carbon capture using computa
 
 ## 📈 Results
 
+### 1. Algae Growth Kinetics
 ![Growth Curve](images/Growth_Curve.png)
 
+### 2. CO₂ Capture Over Time
+![CO2 Capture](images/co2_capture_curve.png)
 
 
+## 🔬 Mathematical Models
+
+### 1. Growth Kinetics (Monod Model)
+μ = μ_max * S / (K_s + S)
+
+### 2. CO₂ Capture Model
+C(t) = C₀ e^(-kt)
 ---
 
 ## 🧠 Discussion
